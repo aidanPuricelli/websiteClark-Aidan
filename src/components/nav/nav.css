@@ -1,0 +1,17 @@
+nav {
+    margin-top: 2px;
+    position: fixed;
+    width: max-content;
+    display: block;
+    border-radius: 0.6rem;
+    gap: 2rem;
+}
+
+nav a {
+    
+}
+
+
+nav a:hover {
+    color: aquamarine;
+}

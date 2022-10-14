@@ -1,0 +1,17 @@
+.container h1 {
+    color: green;
+    text-align: center;
+}
+
+h5 {
+    justify-content: center;
+    padding: 2rem;
+    color: var(--color-primary);
+    font-size: 2rem;
+}
+
+h2 {
+    justify-content: left;
+    margin-top: 3rem;
+    color: magenta;
+}
